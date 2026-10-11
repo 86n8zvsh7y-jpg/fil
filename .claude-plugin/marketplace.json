@@ -1,0 +1,5 @@
+   {
+     "name": "fil-marketplace",
+     "owner": { "name": "Sarah Elouarghi" },
+     "plugins": [{ "name": "fil", "source": "./" }]
+   }
