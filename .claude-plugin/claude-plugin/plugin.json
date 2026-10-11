@@ -1,0 +1,7 @@
+   {
+     "name": "fil",
+     "version": "0.1.0",
+     "description": "Une barre au-dessus de la zone de saisie qui montre le temps écoulé, les étapes et les sous-agents d'une tâche en cours.",
+     "author": { "name": "Sarah Elouarghi" },
+     "types": "./types/index.d.ts"
+   }
